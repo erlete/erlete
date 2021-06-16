@@ -1,4 +1,4 @@
-# A bit about me
+# A brief introduction
 
 Hello, my name is Paulo, but my friends call me Lete, so you can do so as well.
 
@@ -7,7 +7,7 @@ Coding is, however, my true passion, so I try to practice it as much as I can.
 
 ***
 
-# Iterests and expectations
+# Interests and expectations
 
 My main interests are algorithm design and AI development, although I'm still developing the algorithms.
 Currently working in sorting and search ones!
