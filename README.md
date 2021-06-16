@@ -21,4 +21,8 @@ I must say that I learn quick and never cease to be amazed with all the things t
 
 I only have an advanced language knowledge in Python (for the time being...), yet I also manage to get some work done with C, JS and MatLab.
 
+***
+
+# Contact
+
 You can reach me through szblzpaulo@gmail.com, and feel free to check any of my projects. Have a nice day!
