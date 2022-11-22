@@ -1,28 +1,33 @@
-# A brief introduction
+# Hey there!
 
-Hello, my name is Paulo, but my friends call me Lete, so you can do so as well.
+Hello, my name is Paulo, but everybody calls me Lete. I'm a Computer Engineering student in Spain and no, I cannot hack your ex's Facebook account.
 
-I'm a university student, currently enrolled in Aerospatial Engineering.
-Coding is, however, my true passion, so I try to practice it as much as I can.
+## Interests
 
-***
+I really, **really** like coding, as you can see in my GitHub profile. I've developed several projects ranging from simple progress bars to complete search algorithms playgrounds. My main goal is to explore computer science in a nice, interesting way.
 
-# Interests and expectations
+I'm currently part of a Formula Student team where we develop an Autonomous Driving System for a formula student car (tinier than F1, but equally cool).
 
-My main interests are algorithm design and AI development, although I'm still developing the algorithms.
-Currently working in sorting and search ones!
+## Development skills
 
-I'm looking to collaborate with anyone who cares enough to dedicate some time to a still-learning student.
-I must say that I learn quick and never cease to be amazed with all the things that can be programmed :).
+I've got a professional-ish level in Python programming. In fact, this was the first language I learned back in 2020. I can do almost anything with it, from data processing to API services management.
 
-***
+Since I'm a fan of UNIX-based systems, bash and zsh are fundamental languages for me as well. I can develop complex scripts in bash, yet I can never remember how to remove a file extension from a file name. That's sad, I know.
 
-# Language knowledge
+I also have some experience with languages such as Java, C or C++, having developed some minor projects with them, but I must say I'm not a big fan of semicolons.
 
-I only have an advanced language knowledge in Python (for the time being...), yet I also manage to get some work done with C, JS and MatLab.
+On a different line, I use Unreal Engine to develop 3D virtual reality environments, mainly for product showcase purposes.
 
-***
+## Other skills
 
-# Contact
+Some say I'm a good leader, others say I'm not, but one thing is for sure: I know how to work in a team. I believe communication is the standard requirement for successful teamwork, and I make a good job encouraging this good practice.
 
-You can reach me through szblzpaulo@gmail.com, and feel free to check any of my projects. Have a nice day!
+Furthermore, despite being from Spain, I speak English on a decent level (I currently have got a C1 language certificate).
+
+## Contact
+
+You can contact me through any of the following alternatives:
+
+* Email: [dev.szblzpaulo@gmail.com](mailto:dev.szblzpaulo@gmail.com)
+* LinkedIn: [@Paulo Sánchez](linkedin.com/in/erlete)
+* WhatsApp: [you wish lol](https://theuselessweb.com/)
