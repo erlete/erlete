@@ -6,8 +6,6 @@ Hello, my name is Paulo, but everybody calls me Lete. I'm a Computer Engineering
 
 **I really, _really_ like coding**, as you can see in my GitHub profile. I've developed several projects ranging from simple progress bars to complete search algorithms playgrounds. My main goal is to explore computer science in a nice, interesting way.
 
-I'm currently part of a **Formula Student team** where we develop an Autonomous Driving System for a formula student car (tinier than F1, but equally cool).
-
 ![All-time Statistics](https://github-readme-stats.vercel.app/api?username=erlete&border_radius=15&count_private=true&hide=prs&hide_border=true&hide_title=true&locale=en&show_icons=true&show_owner=true&theme=tokyonight)
 
 ## Development skills
