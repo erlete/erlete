@@ -6,7 +6,9 @@ Hello, my name is Paulo, but everybody calls me Lete. I'm a Computer Engineering
 
 **I really, _really_ like coding**, as you can see in my GitHub profile. I've developed several projects ranging from simple progress bars to complete search algorithms playgrounds. My main goal is to explore computer science in a nice, interesting way.
 
-![All-time Statistics](https://github-readme-stats.vercel.app/api?username=erlete&border_radius=15&count_private=true&hide=prs&hide_border=true&hide_title=true&locale=en&show_icons=true&show_owner=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-erlete.vercel.app/api?username=erlete&hide=contribs&hide_title=true&rank_icon=percentile&show_icons=true&include_all_commits=false&text_bold=true&ring_color=bf91f3&number_format=long&show=reviews,prs_merged_percentage&theme=tokyonight" width="500px" height="250px"/>
+</p>
 
 ## Development skills
 
@@ -18,18 +20,12 @@ I also have some experience with languages such as **Java**, **JavaScript** (yes
 
 On a different line, I use **Unreal Engine** to develop 3D virtual reality environments, mainly for product showcase purposes.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erlete&border_radius=15&hide_border=true&hide_title=true&langs_count=20&locale=en&show_icons=true&show_owner=true&theme=tokyonight)](https://github.com/erlete/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-erlete.vercel.app/api/top-langs/?username=erlete&hide_title=true&layout=pie&langs_count=20&size_weight=.75&count_weight=.25&theme=tokyonight" width="500px" height="750px"/>
+</p>
 
 ## Other skills
 
 Some say I'm a good leader, others say I'm not, but one thing is for sure: **I know how to work in a team**. I believe communication is the standard requirement for successful teamwork, and I make a good job encouraging this good practice.
 
 Furthermore, despite being from Spain, I speak English on a decent level (**I currently have got a C1 language certificate**).
-
-## Contact
-
-You can contact me through any of the following alternatives:
-
-* Email: [dev.szblzpaulo@gmail.com](mailto:dev.szblzpaulo@gmail.com)
-* LinkedIn: [Paulo Sánchez](https://linkedin.com/in/erlete)
-* WhatsApp: [you wish lol](https://theuselessweb.com/)
